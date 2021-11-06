@@ -1,6 +1,7 @@
 backend:
   name: blog-mgf
   branch: master
+  repo: MarekBt73/mgf1v
   commit_messages:
     create: "Create {{collection}} “{{slug}}”"
     update: "Update {{collection}} “{{slug}}”"
